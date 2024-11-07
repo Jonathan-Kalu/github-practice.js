@@ -1,1 +1,1 @@
-alert("Node  JS  Version 22.59 available nows")
+alert("Node  JS  Version 22.60 available nows")
